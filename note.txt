@@ -1,0 +1,306 @@
+<div className="bg-custom-bg bg-cover bg-center bg-no-repeat laptop:flex">
+        <div className="h-full w-[32%] bg-transparent laptop:fixed">
+          <div className="avatar ml-[80px] mt-[50px] h-[calc(100%-6rem)] w-[400px] rounded-3xl bg-white p-[50px]">
+            <div className="avatar-logo mb-[20px] flex gap-[20px]">
+              <div className="logo-image flex h-[74px] w-[74px] items-end justify-center rounded-[24px] border-2 border-black">
+                <i class="fa-solid fa-cat text-[43px]"></i>
+              </div>
+              <div className="logo-caption font-syne text-4xl font-bold">
+                <p>
+                  Alex <br /> Walker
+                </p>
+              </div>
+            </div>
+            <div className="avatar-image">
+              <img
+                src="https://vapa.vn/wp-content/uploads/2022/12/anh-dai-dien-dep-003.jpg"
+                alt=""
+                className="h-[300px] w-[300px] rounded-3xl"
+              />
+            </div>
+            <div className="avatar-block">
+              <div className="font-syne text-custom-sm font-normal text-gray-500">
+                <p>Specialization:</p>
+              </div>
+              <div className="font-syne text-custom-lg font-bold">
+                <p className="leading-tight">
+                  UI/UX designer <br /> and frontend developer
+                </p>
+              </div>
+              <div className="font-syne text-custom-sm font-normal text-gray-500">
+                <p>Based in:</p>
+              </div>
+              <div className="font-syne text-custom-lg font-bold">
+                <p className="leading-tight">Odesa, Ukraine</p>
+              </div>
+            </div>
+            <div className="socials-square mb-[7px]">
+              <div className="flex justify-between gap-2">
+                <div className="flex h-[50px] w-[50px] items-center justify-center rounded-[50%] border-2 border-solid border-slate-400">
+                  <a href="">
+                    <i className="fa-brands fa-facebook"></i>
+                  </a>
+                </div>
+                <div className="flex h-[50px] w-[50px] items-center justify-center rounded-[50%] border-2 border-solid border-slate-400">
+                  <a href="">
+                    <i className="fa-brands fa-facebook"></i>
+                  </a>
+                </div>
+                <div className="flex h-[50px] w-[50px] items-center justify-center rounded-[50%] border-2 border-solid border-slate-400">
+                  <a href="">
+                    <i className="fa-brands fa-facebook"></i>
+                  </a>
+                </div>
+                <div className="flex h-[50px] w-[50px] items-center justify-center rounded-[50%] border-2 border-solid border-slate-400">
+                  <a href="">
+                    <i className="fa-brands fa-facebook"></i>
+                  </a>
+                </div>
+                <div className="flex h-[50px] w-[50px] items-center justify-center rounded-[50%] border-2 border-solid border-slate-400">
+                  <a href="">
+                    <i className="fa-brands fa-facebook"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <button className="h-[50px] rounded-3xl border-2 bg-gradient-to-r from-blue-500 to-blue-900 px-14 py-2 font-syne font-bold text-white">
+              Let's Work Together!
+            </button>
+          </div>
+        </div>
+        <div className="ml-[32%] h-full w-[68%] overflow-y-scroll bg-transparent">
+          <div className="main ml-[50px] mr-[80px] mt-[50px]">
+            <div className="header fixed top-[50px] flex justify-between pt-[20px]">
+              <div className="header-nav">
+                <div className="menu">
+                  <ul className="menu-list flex gap-4">
+                    <li className="menu-item">
+                      <a href="" className="menu-link">
+                        <span className="menu-caption rounded-3xl border p-[20px] font-syne font-bold text-gray-500">
+                          Home
+                        </span>
+                      </a>
+                    </li>
+                    <li className="menu-item">
+                      <a href="" className="menu-link">
+                        <span className="menu-caption rounded-3xl border p-[20px] font-syne font-bold text-gray-500">
+                          Portfolio
+                        </span>
+                      </a>
+                    </li>
+                    <li className="menu-item">
+                      <a href="" className="menu-link">
+                        <span className="menu-caption rounded-3xl border p-[20px] font-syne font-bold text-gray-500">
+                          About Me
+                        </span>
+                      </a>
+                    </li>
+                    <li className="menu-item">
+                      <a href="" className="menu-link">
+                        <span className="menu-caption rounded-3xl border p-[20px] font-syne font-bold text-gray-500">
+                          Resume
+                        </span>
+                      </a>
+                    </li>
+                    <li className="menu-item">
+                      <a href="" className="menu-link">
+                        <span className="menu-caption rounded-3xl border p-[20px] font-syne font-bold text-gray-500">
+                          Contact
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div className="header-controls ml-[70px] flex gap-7">
+                <div>
+                  <button>
+                    <i class="fa-regular fa-moon"></i>
+                  </button>
+                </div>
+                <div>
+                  <a
+                    href=""
+                    className="h-[50px] rounded-3xl border-2 bg-gradient-to-r from-blue-500 to-blue-900 px-5 py-5 font-syne font-bold text-white"
+                  >
+                    Let's Talk <i class="fa-regular fa-message"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="mb-[35px] mt-[230px]">
+              <a href="" className="">
+                <span className="rounded-3xl border p-[10px] font-syne font-bold text-gray-500">
+                  Let's meet!
+                </span>
+              </a>
+            </div>
+            <h1 className="font-sans text-[80px] font-black text-indigo-400">
+              I'm Alex Walker <br />
+              Digital designer and <br />
+              illustrator.
+            </h1>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+            <p>content</p>
+          </div>
+        </div>
+      </div>
